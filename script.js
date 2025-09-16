@@ -1,2 +1,1 @@
-// Simple interactivity if needed later
-console.log("Portfolio Loaded!");
+console.log("Portfolio Loaded Successfully!");
